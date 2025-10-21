@@ -17,12 +17,5 @@ JavaScript ile dinamik olarak çalışır, tarayıcı dilini kullanmak ve oyuncu
 - JavaScript  
 - PHP
 
-## Çalıştırma
-Projeyi yerel sunucuda çalıştırmak için;
-
-1. `htdocs` içine klasörü kopyala
-2. Tarayıcıdan `https://localhost/dyroid/` adresine git  
-3. Oyuna başla 🎯
-
 ## Ekran Görüntüleri
 ![Ekran Görüntüsü](./screenshots.png)
